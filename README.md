@@ -7,7 +7,7 @@ Your task is to catch the rabbit! The rules are simple:
 * you can look 1 time at a turn
 * if you look at the box the rabbit is in, you have won 
 
-###Can you find the algorithm that always catches the rabbit?
+### Can you find the algorithm that always catches the rabbit?
 
 To solve the small logic task simply edit the file `src/look.js`. The code will run in a loop and if you catch the rabbit you will get a hint.
 
